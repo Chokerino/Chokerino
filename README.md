@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🔭 I like to work on the intersection of machine learning and computational biology.
-- :roller_coaster: Training never stops. :trollface:
+- :roller_coaster: Training never stops.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chokerino&langs_count=8&layout=compact&theme=github_dark)](https://github.com/chokerino/github-readme-stats)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chokerino&show_icons=true&layout=compact&theme=github_dark&hide=stars,prs)
